@@ -38,7 +38,7 @@ def make_Table(key_justify='left', value_justify='right', **keyValues):
     for i, j in keyValues.items():
 
         print "| {}{}{} | {}{}{} |".format(' '*keyMatrix[count2][0], i, ' '*keyMatrix[count2][1], 
-										   ' '*valMatrix[count2][0], j, ' '*valMatrix[count2][1])
+					   ' '*valMatrix[count2][0], j, ' '*valMatrix[count2][1])
         count2 += 1
 
     print '=' * (2 + max(length2) + 3 + max(length3) + 2)
