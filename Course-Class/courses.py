@@ -52,8 +52,11 @@ class Course:
         try:
             if self.attendance_List[student] == 'present':
                 return True
+            
+        # If a key that is not present is attempted to be accesed
         except KeyError:
             return False
+        
         else:
             return False
 
