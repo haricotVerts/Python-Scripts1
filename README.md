@@ -11,21 +11,21 @@ http://csiflabs.cs.ucdavis.edu/~ssdavis/10/
 Uisng python 2.7
 
 Acronym-Creator <br />
-Anagram_Finder 
-Average 
-Bank-Account-iInterest 
-Collatz-Conjecture 
-Course-Class 
-Cyclone-Phrase-Verify 
-Distance-Converter 
-Get-Age_Custom-Error-Handling 
-Palindrome-Verify 
-Pascal-Row-Generator 
-Speak-Excitedly 
-Sum-with-Command-Line 
-Table-Generator 
-Temperature-Converter 
-Test-Score-Average 
-Timed-Key-Value-Structure 
+Anagram_Finder <br />
+Average <br />
+Bank-Account-iInterest <br />
+Collatz-Conjecture <br />
+Course-Class <br />
+Cyclone-Phrase-Verify <br />
+Distance-Converter <br />
+Get-Age_Custom-Error-Handling <br />
+Palindrome-Verify <br />
+Pascal-Row-Generator <br />
+Speak-Excitedly <br />
+Sum-with-Command-Line <br />
+Table-Generator <br />
+Temperature-Converter <br />
+Test-Score-Average <br />
+Timed-Key-Value-Structure<br /> 
 
 
