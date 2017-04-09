@@ -8,7 +8,7 @@ http://web.cs.ucdavis.edu/~amenta/w13/ecs10.html <br />
 http://csiflabs.cs.ucdavis.edu/~ssdavis/10/ <br />
 
 
-Uisng python 2.7
+Done using python 2.7
 
 <b>Acronym-Creator:</b> Returns an acronym version of a given string.<br />
 <b>Anagram_Finder:</b> Takes user string input, and looks through a dictionary for annograms.<br />
@@ -26,6 +26,4 @@ Uisng python 2.7
 <b>Table-Generator:</b> Take an undefined amount of keys/values, and return them in a uniquely justified table.<br />
 <b>Temperature-Converter:</b> Convert values between units of kelvin, celcius, and fahrenheit.<br />
 <b>Test-Score-Average:</b> Return the average of user input values.<br />
-<b>Timed-Key-Value-Structure:</b> Key value structure that organizes a key value chronologically.<br /> 
-
-
+<b>Timed-Key-Value-Structure:</b> Key value structure that organizes a key value chronologically.<br />
