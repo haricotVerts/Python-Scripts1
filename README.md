@@ -8,7 +8,7 @@ http://web.cs.ucdavis.edu/~amenta/w13/ecs10.html <br />
 http://csiflabs.cs.ucdavis.edu/~ssdavis/10/ <br />
 
 
-Done using python 2.7
+All programed using python 2.7
 
 <b>Acronym-Creator:</b> Returns an acronym version of a given string.<br />
 <b>Anagram_Finder:</b> Takes user string input, and looks through a dictionary for annograms.<br />
@@ -16,6 +16,7 @@ Done using python 2.7
 <b>Bank-Account-iInterest:</b> Calculates the yearly interest of a bank account.<br />
 <b>Collatz-Conjecture:</b> Given a number, return the steps neded to satisfy the collatz conjecture.<br />
 <b>Course-Class:</b> A class that has attributes and methods that pertain to a university course.<br />
+<b>Crypto-Suite:</b> Different encryption and decryption methods.<br />
 <b>Cyclone-Phrase-Verify:</b> Check if a input string is a cyclone phrase.<br />
 <b>Distance-Converter:</b> Converts a value between mile and kilometer units.<br />
 <b>Get-Age_Custom-Error-Handling:</b> Custom error checks if an input age value is in bounds.<br />
